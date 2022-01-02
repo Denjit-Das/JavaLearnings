@@ -15,7 +15,7 @@ public class ArrayQuestions {
 //        }
 
         System.out.println("=======Ascending Sorting without Methods=======");
-        int sortArr[]={90,25,9,-52,-60,10,100,-10,84};
+        int sortArr[]={90,25,9,-52,-60,10,100,-10,84,9};
 
         for (int i=0;i<sortArr.length;i++){
             for (int j=i+1;j<sortArr.length;j++){
